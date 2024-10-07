@@ -14,4 +14,4 @@ try to est as much food as u can,if u touch the tail thatsit GAMEOVER.  again u 
 <b>
 #Hope u like the project.<br>
 #Feel free to download the source code and follow for new projects.<br>
-#dont foget to give a star if u like the project.<b>
+#dont forget to give a star if u like the project.<b>
